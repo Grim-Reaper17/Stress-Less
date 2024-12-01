@@ -1,0 +1,87 @@
+@font-face{
+
+font-family : 'nvd';
+src : url(fonts/November-Delight.ttf);
+font-family : 'wp';
+src : url(../fonts/Warm-Peanut.otf);
+}
+
+.back-video{
+
+position : absolute;
+right :0;
+bottom : 0;
+z-index:-1;
+}
+
+body{
+padding:0;
+margin:0;
+}
+.pleasework{
+
+font-size:5em;
+margin:0;
+padding:0;
+opacity : 100%;
+text-align:center;
+/* font-family: */
+position: absolute;
+top : 30%;
+left : 50%;
+/* bottom : 300%; */
+transform : translateX(-50%);
+color : white;
+font-family: "wp";
+}
+
+
+@media (min-aspect-ratio :16/9){
+
+.back-video{
+width:100%;
+height:auto; 
+}
+
+}
+
+.navbar navbar-expand-lg navbar-light bg-light{
+
+background-color:green;
+
+}
+
+.auheading{
+
+text-align:center;
+font-size:4em;
+font-family:'wp';
+color:white;
+margin-top:30px;
+
+margin-left:100px;
+margin-right:100px;
+}
+
+
+.aupara{
+
+text-align:center;
+color:white;
+margin-left:100px;
+margin-right:100px;
+}
+
+.demoheading{
+
+text-align:center;
+font-size:4em;
+font-family:'wp';
+color:white;
+margin-top:30px;
+
+margin-left:100px;
+margin-right:100px;
+
+}
+

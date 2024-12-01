@@ -1,5 +1,5 @@
 Project by :
-1. Aryan Raj Triphati
+1. Aryan Raj Tripathi 
 2. Aryan Singh
 3. Abhishek Vinayak
 4. Akshat Yadav
